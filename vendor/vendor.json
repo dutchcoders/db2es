@@ -1,0 +1,117 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "appengine/cloudsql",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "NXRpgSewc1Yb6rfNE1R8YEcccbw=",
+			"path": "github.com/chzyer/readline",
+			"revision": "eef24db1d59cac55d773312ab6efe1890187f2de",
+			"revisionTime": "2017-01-25T03:55:32Z"
+		},
+		{
+			"checksumSHA1": "XEBl9iQQvfXNlwCSzyAOCqAlYEA=",
+			"path": "github.com/fatih/color",
+			"revision": "42c364ba490082e4815b5222728711b3440603eb",
+			"revisionTime": "2017-01-13T15:16:12Z"
+		},
+		{
+			"checksumSHA1": "QD6LqgLz2JMxXqns8TaxtK9AuHs=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "2e00b5cd70399450106cec6431c2e2ce3cae5034",
+			"revisionTime": "2016-12-24T12:10:19Z"
+		},
+		{
+			"path": "github.com/jmoiron/reflectx",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "5OTsrrNLvnaqi0pg74T61nyhU2U=",
+			"path": "github.com/jmoiron/sqlx",
+			"revision": "f980a91bdc37abef88269b8f122d7de6352102f5",
+			"revisionTime": "2017-01-21T10:35:19Z"
+		},
+		{
+			"checksumSHA1": "NrhkMPKlj0N6LaD2JMb2KKnR03w=",
+			"path": "github.com/jmoiron/sqlx/reflectx",
+			"revision": "f980a91bdc37abef88269b8f122d7de6352102f5",
+			"revisionTime": "2017-01-21T10:35:19Z"
+		},
+		{
+			"checksumSHA1": "eOXF2PEvYLMeD8DSzLZJWbjYzco=",
+			"path": "github.com/kr/pretty",
+			"revision": "cfb55aafdaf3ec08f0db22699ab822c50091b1c4",
+			"revisionTime": "2016-08-23T17:07:15Z"
+		},
+		{
+			"checksumSHA1": "uulQHQ7IsRKqDudBC8Go9J0gtAc=",
+			"path": "github.com/kr/text",
+			"revision": "7cafcd837844e784b526369c9bce262804aebc60",
+			"revisionTime": "2016-05-04T02:26:26Z"
+		},
+		{
+			"checksumSHA1": "I4njd26dG5hxFT2nawuByM4pxzY=",
+			"path": "github.com/mattn/go-colorable",
+			"revision": "d228849504861217f796da67fae4f6e347643f15",
+			"revisionTime": "2016-11-03T16:00:40Z"
+		},
+		{
+			"checksumSHA1": "xZuhljnmBysJPta/lMyYmJdujCg=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "30a891c33c7cde7b02a981314b4228ec99380cca",
+			"revisionTime": "2016-11-23T14:36:37Z"
+		},
+		{
+			"checksumSHA1": "+jYYwEFAR+NW42UwA/AeppFYTbs=",
+			"path": "github.com/minio/cli",
+			"revision": "bf72f027481f5fadaf8800f62c72904e6bd7a200",
+			"revisionTime": "2016-11-25T09:07:42Z"
+		},
+		{
+			"checksumSHA1": "BoXdUBWB8UnSlFlbnuTQaPqfCGk=",
+			"path": "github.com/op/go-logging",
+			"revision": "970db520ece77730c7e4724c61121037378659d9",
+			"revisionTime": "2016-03-15T20:05:05Z"
+		},
+		{
+			"checksumSHA1": "Y+HGqEkYM15ir+J93MEaHdyFy0c=",
+			"path": "golang.org/x/net/context",
+			"revision": "236b8f043b920452504e263bc21d354427127473",
+			"revisionTime": "2017-02-06T03:21:01Z"
+		},
+		{
+			"checksumSHA1": "WHc3uByvGaMcnSoI21fhzYgbOgg=",
+			"path": "golang.org/x/net/context/ctxhttp",
+			"revision": "236b8f043b920452504e263bc21d354427127473",
+			"revisionTime": "2017-02-06T03:21:01Z"
+		},
+		{
+			"checksumSHA1": "LvdVRE0FqdR68SvVpRkHs1rxhcA=",
+			"path": "golang.org/x/net/proxy",
+			"revision": "236b8f043b920452504e263bc21d354427127473",
+			"revisionTime": "2017-02-06T03:21:01Z"
+		},
+		{
+			"checksumSHA1": "uTQtOqR0ePMMcvuvAIksiIZxhqU=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "7a6e5648d140666db5d920909e082ca00a87ba2c",
+			"revisionTime": "2017-02-01T04:15:14Z"
+		},
+		{
+			"checksumSHA1": "fIJuh+cmAXF1FUOytzBX3bS/prg=",
+			"path": "gopkg.in/olivere/elastic.v5",
+			"revision": "233bdd26c13dc9b7e764a8dd4e2e0711e8808cea",
+			"revisionTime": "2017-01-31T21:21:20Z"
+		},
+		{
+			"checksumSHA1": "pCApZfp2CeDnWbNVsyzNO62ZUXA=",
+			"path": "gopkg.in/olivere/elastic.v5/uritemplates",
+			"revision": "233bdd26c13dc9b7e764a8dd4e2e0711e8808cea",
+			"revisionTime": "2017-01-31T21:21:20Z"
+		}
+	],
+	"rootPath": "github.com/dutchcoders/sql2es"
+}
